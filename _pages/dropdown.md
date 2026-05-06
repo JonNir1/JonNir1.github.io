@@ -1,7 +1,7 @@
 ---
 layout: page
-title: submenus
-nav: true
+title: more options
+nav: false  # controls whether the dropdown is shown in the navigation bar
 nav_order: 8
 dropdown: true
 children:
