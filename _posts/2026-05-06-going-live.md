@@ -3,8 +3,8 @@ layout: post
 title: Going Live
 date: 2026-05-06
 description: My personal website is up!
-tags: meta ai personal
-categories:
+tags: ai meta
+categories: personal
 related_posts: false
 ---
 
