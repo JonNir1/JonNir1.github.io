@@ -30,167 +30,161 @@ cv:
       - institution: Hebrew University of Jerusalem
         location: Jerusalem, Israel
         url: https://elsc.huji.ac.il/
-        area: Cognitive Neuroscience
-        studyType: PhD (Direct Track)
+        area: Cognitive & Computational Neuroscience
+        studyType: PhD Candidate (Direct Track)
         start_date: 2022
         end_date: ""
-        score: "Course GPA: 96.0"
+        score: "Course GPA: 95.8"
         highlights:
+          - "Advisor: Prof. Leon Deouell, MD PhD"
+
+      - institution: Hebrew University of Jerusalem
+        location: Jerusalem, Israel
+        url: https://elsc.huji.ac.il/
+        area: Computational Neuroscience
+        studyType: MSc (Direct PhD Track)
+        start_date: 2022
+        end_date: 2025
+        score: "Final GPA: 90.1"
+        highlights:
+          - "Advisor: Prof. Leon Deouell, MD PhD"
           - Developed and published an open-source Python package for benchmarking eye-tracking data parsers.
           - Experienced in co-registration and analysis of large-scale multi-modal physiological and behavioral data.
 
       - institution: Tel-Aviv University
         location: Tel-Aviv, Israel
-        area: Computer Science & Psychology
+        area: Computer Science & Psychology (Emphasis on Neuroscience)
         studyType: BSc
         start_date: 2016
         end_date: 2020
-        score: "GPA: 86.5"
+        score: "Final GPA: 86.5"
         highlights:
-          - "BSc. Thesis: A no-report paradigm for probing human memory using eye tracking.
-          Advisors: Omer Sharon, PhD; Prof. Yuval Nir, PhD"
-          - "BSc. Thesis: Face recognition during free viewing of naturalistic video stimuli.
-          Advisor: Prof. Galit Yovel, PhD"
-
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "BSc. Thesis: A no-report paradigm for probing human memory using eye tracking. Advisors: Omer Sharon, PhD; Prof. Yuval Nir, PhD"
+          - "BSc. Thesis: Face recognition during free viewing of naturalistic video stimuli. Advisor: Prof. Galit Yovel, PhD"
+          - Studied a semester in Konstanz University, Germany (Mar-Aug 2018).
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Data Sharing and Citation Impact in Visual Search Research
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - "**Nir, J.**"
+        publisher: PsyArXiv
+        releaseDate: 2026-04
+        summary: "[pre-print]"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Systematic Classification Differences Across Eye-Movement Detection Algorithms
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - "**Nir, J.**"
+          - Deouell, L.Y.
+        publisher: Behavior Research Methods
+        releaseDate: 2026
+        summary: "Vol. 58, 109."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Anticipatory eye gaze as a marker of memory
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Schmidig, F.J.
+          - "et al. (incl. **Nir, J.**)"
+          - Nir, Y.
+        publisher: Communications Psychology
+        releaseDate: 2025
+        summary: "3(1), 122."
+
+    Conferences:
+      - title: "Fixated but Failed to See: Recognition Errors in Visual Search"
+        authors:
+          - "**Nir, J.**"
+          - Auerbach-Asch, R.C.
+          - Deouell, L.Y.
+        date: 2026-05
+        venue: Annual Meeting of the Vision Science Society (VSS 2026), St. Pete Beach, FL, USA
+        summary: "[poster presentation]"
+
+      - title: "pEYES: An Open-Source Python Toolkit for Eye Tracking Data Analysis and Detector Evaluation"
+        authors:
+          - "**Nir, J.**"
+          - Deouell, L.Y.
+        date: 2025-07
+        venue: Association for the Scientific Study of Consciousness Annual Meeting (ASSC 28), Heraklion, Greece
+        summary: "[poster presentation]"
+
+      - title: A Comparative Evaluation of Eye Movement Detection Algorithms
+        authors:
+          - "**Nir, J.**"
+          - Deouell, L.Y.
+        date: 2025-02
+        venue: Israeli Society for Cognitive Psychology Annual Conference (ISCOP 11), Acre, Israel
+        summary: "[poster presentation]"
+
+    Awards:
+      - title: ELSC Excellence Scholarship for Direct-Track PhD Students
+        date: "2022-"
+
+      - title: Israeli National Road Safety Authority (לב"ד) research grant for MSc students
+        date: 2024
+
+      - title: Israeli Smart Transportation Research Center (ISTRC) scholarship for MSc students
+        date: 2024
+
+      - title: Erasmus+ scholarship for Israeli students studying in European universities
+        date: 2018
+
+      - title: Military-Intelligence's Major-General award for Creative Thinking
+        date: 2015
+
+    Experience:
+      - company: Hebrew University of Jerusalem
+        position: Teaching Assistant & Lab Instructor
+        location: Jerusalem, Israel
+        start_date: 2022
+        end_date: 2023
+        highlights:
+          - "Teaching Assistant: Summer course for graduate students in neuroscience, HUJI+TUM (76953; September 2023)"
+          - "Lab Instructor: Introduction to Machine Learning (67577; spring semester 2023)"
+          - "Teaching Assistant: Statistical Methods (51307; winter semester 2022)"
+
+      - company: Express Wi-Fi (Facebook / Meta)
+        position: Software Engineer
+        location: Tel-Aviv, Israel
+        start_date: 2019
+        end_date: 2022
+        highlights:
+          - Unblocked deployment in multiple regions by integrating our product (multi-service, AWS) with FB's internal SMS platform, while maintaining data separation required for GDPR compliance.
+          - Increased ad-impressions by 30% by adjusting existing customer-flows and supporting new ad-types.
+          - Team PoC for experimentation processes: design, implementation & review.
+
+      - company: Yuval Nir Lab, Tel-Aviv University
+        position: Research Assistant & Software Developer
+        location: Tel-Aviv, Israel
+        start_date: 2017
+        end_date: 2019
+        highlights:
+          - Implemented industry-standard feature-extraction algorithms for eye-tracking data (Python).
+          - Conducted clinical trials on humans to collect physiological measures (EEG, eye tracking, etc.).
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, Go, JavaScript & React"
+
+      - name: Research
+        icon: fa-solid fa-flask
+        keywords: "Eye-tracking analysis, EEG analysis, experiment design, statistics, data science"
 
     Languages:
-      - name: German
+      - name: Hebrew
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: pEYES
+        summary: An open-source Python package for eye-tracking algorithm evaluation and analysis.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - "Language: Python"
+          - "[github](https://github.com/JonNir1/pEYES)"
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: SLAM on KITTI Dataset
+        summary: Implementing SLAM on the KITTI dataset using visual odometry, bundle adjustment & gtsam.
+        highlights:
+          - "Language: Python"
+          - "[github](https://github.com/JonNir1/VAN_ex)"
