@@ -19,10 +19,10 @@ cv:
       username: 0009-0006-2842-2426
 
   address:
-    street: ""
+#    street: ""
     city: Ottawa
     region: Ontario
-    postalCode: ""
+#    postalCode: ""
     countryCode: Canada
 
   sections:
