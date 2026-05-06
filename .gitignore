@@ -1,5 +1,6 @@
 _site
 .bundle
+.claude/worktrees/
 .DS_store
 .idea
 .jekyll-cache
