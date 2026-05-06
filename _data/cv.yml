@@ -95,7 +95,7 @@ cv:
           - Auerbach-Asch, R.C.
           - Deouell, L.Y.
         date: 2026-05
-        venue: Annual Meeting of the Vision Science Society (VSS 2026), St. Pete Beach, FL, USA
+        publisher: Annual Meeting of the Vision Science Society (VSS 2026), St. Pete Beach, FL, USA
         summary: "[poster presentation]"
 
       - title: "pEYES: An Open-Source Python Toolkit for Eye Tracking Data Analysis and Detector Evaluation"
@@ -103,7 +103,7 @@ cv:
           - "**Nir, J.**"
           - Deouell, L.Y.
         date: 2025-07
-        venue: Association for the Scientific Study of Consciousness Annual Meeting (ASSC 28), Heraklion, Greece
+        publisher: Association for the Scientific Study of Consciousness Annual Meeting (ASSC 28), Heraklion, Greece
         summary: "[poster presentation]"
 
       - title: A Comparative Evaluation of Eye Movement Detection Algorithms
@@ -111,7 +111,7 @@ cv:
           - "**Nir, J.**"
           - Deouell, L.Y.
         date: 2025-02
-        venue: Israeli Society for Cognitive Psychology Annual Conference (ISCOP 11), Acre, Israel
+        publisher: Israeli Society for Cognitive Psychology Annual Conference (ISCOP 11), Acre, Israel
         summary: "[poster presentation]"
 
     Awards:
